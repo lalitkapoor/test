@@ -8,4 +8,3 @@ List of features available so far:
 - Feature 3
   - ~~Feature 3.1~~
   - Feature 3.2
-
